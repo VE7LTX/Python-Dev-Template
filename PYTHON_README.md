@@ -1,6 +1,6 @@
 # Python-Dev-Template
 
-# Python Libraries for Project Template
+# Python Libraries for A Common Master Project Templates
 
 This is a master list of Python libraries commonly used in various types of projects. It serves as a reference guide for developers looking to include specific functionalities in their projects. Each library includes a brief description, common use cases, and the category it belongs to.
 
