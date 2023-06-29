@@ -21,3 +21,40 @@ Please refer to individual files for more details on the functions and their usa
 
 For more information about the project and how to use it, please see the [PYTHON_README.md](PYTHON_README.md) file.
 
+Code Rules:
+Follow coding standards and style guidelines.
+Use clear and meaningful naming.
+Keep functions and classes small.
+Write self-documenting code.
+Follow the Single Responsibility Principle.
+Minimize code complexity.
+Avoid code duplication.
+Handle errors gracefully.
+Document code and functionality.
+Write unit tests.
+Optimize performance.
+Maintain version control.
+Conduct regular code reviews.
+Continuously refactor code.
+Prioritize security.
+
+File Headers:
+Include essential information about the file (name, author, email, creation date, update history).
+Provide a brief description of the file's purpose and functionality.
+
+Function Comments:
+Describe the function's purpose, parameters, return value, logic intent, flow steps, assumptions, background, related files, and accessed functions.
+
+File Footers:
+Include a complete file tree and project overview, including paths.
+Show the hierarchy and relationships between files and directories in the project.
+Provide a high-level summary of the project's purpose and main components/modules.
+
+.md File Rules:
+Group rules into categories like file structure, rule formatting, code examples, explanation and rationale, best practices, and related resources.
+Use proper headings, formatting, and lists.
+Include code snippets or examples to illustrate the rules.
+Provide detailed explanations and rationale for each rule.
+Highlight best practices and include related resources or references.
+
+By incorporating these points into your codebase and documentation, you can promote code readability, maintainability, consistency, and collaboration among developers.
