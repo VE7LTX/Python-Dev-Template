@@ -17,7 +17,7 @@ Use descriptive and meaningful names for variables and functions, following PEP 
 response = requests.get(url)
 Rule 3: Maintain Consistent Indentation
 Use consistent indentation with 4 spaces for each level, as recommended by PEP 8. Do not use tabs for indentation.
-
+ì
 """
 def make_api_call(url):
     response = requests.get(url)
