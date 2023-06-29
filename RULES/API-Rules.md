@@ -6,9 +6,10 @@ Following these best practices will help ensure clean and readable code when mak
 
 Import the necessary libraries at the beginning of your script, following PEP 8 guidelines for import statements.
 
-
+"""
 import requests
 import json
+
 Rule 2: Use Descriptive Names
 Use descriptive and meaningful names for variables and functions, following PEP 8 naming conventions.
 
@@ -17,7 +18,7 @@ response = requests.get(url)
 Rule 3: Maintain Consistent Indentation
 Use consistent indentation with 4 spaces for each level, as recommended by PEP 8. Do not use tabs for indentation.
 
-
+"""
 def make_api_call(url):
     response = requests.get(url)
     if response.status_code == 200:
@@ -29,7 +30,7 @@ def make_api_call(url):
 Rule 4: Separate Top-Level Definitions
 Surround top-level function and class definitions with two blank lines, as suggested by PEP 8. This visually separates different sections of your code.
 
-
+"""
 import requests
 
 
@@ -44,12 +45,12 @@ def make_api_call(url):
 Rule 5: Add Module-Level Docstrings
 Add module-level docstrings using triple double quotes to provide a summary of the API call's purpose, parameters, and return values, following PEP 257 conventions.
 
-
+"""
 import requests
 
 
 def make_api_call(url):
-    """
+    
     Makes an API call to the specified URL and returns the response in JSON format.
 
     Args:
@@ -63,6 +64,7 @@ def make_api_call(url):
         return response.json()
     else:
         return None
+"""
 
 Rule 6: Use Inline Comments Sparingly
 Use inline comments sparingly and only when necessary to explain complex logic or edge cases. Comments should be clear and concise, helping other developers understand your code.
