@@ -153,3 +153,14 @@ Contributions to this template repository are welcome. Feel free to suggest new 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+You are free to:
+
+- Use the code for personal or commercial purposes.
+- Modify, adapt, or build upon the code.
+- Distribute the code.
+
+The MIT License is a permissive open-source license that allows for maximum freedom and flexibility. It provides you with the freedom to use, modify, and distribute the code while providing a limited warranty and disclaiming liability.
+
+For more details, please see the [LICENSE](LICENSE) file.
+
